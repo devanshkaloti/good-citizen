@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const TOKEN = "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";
+const TOKEN = "OPEN_AI_TOKEN";
 
 const getChatInstructions = (mood: string, answerLength: string) => {
   // The protect the team's business interests, this code block has been redacted and removed from the public repo.
